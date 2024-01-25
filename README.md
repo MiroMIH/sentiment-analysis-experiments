@@ -19,8 +19,7 @@ This project analyzes sentiment in text data using three NLP libraries: VADER, T
 ### TextBlob Sentiment Distribution
 ![TextBlob Sentiment Distribution](textblob_sentiment_distribution.png)
 
-### spaCy Sentiment Distribution
-![spaCy Sentiment Distribution](spacy_sentiment_distribution.png)
+
 
 
 ## Results
